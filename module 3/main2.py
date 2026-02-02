@@ -6,7 +6,7 @@ else:
 
 temp= 28
 
-if temp > 30
+if temp > 30:
     print("its hot")
 elif 20<= temp <= 30:
     print("the temp is nice")
